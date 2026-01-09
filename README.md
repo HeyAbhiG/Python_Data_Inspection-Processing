@@ -50,7 +50,6 @@ Before cleaning, you need to understand your data:
 •	Delete Rows/Columns: If too much data is missing or unimportant.
 
 •	Imputation (Filling values):
-
 ○	Mean/Median/Mode for numeric
 ○	Mode/ Unknown for categorical
 ○	Forward/Backward fill for time series

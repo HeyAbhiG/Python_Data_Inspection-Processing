@@ -10,7 +10,7 @@ Before any analysis or visualization, you must clean and prepare this data so th
 
 ## The Data Cleaning Process (Step-by-Step) :
 
-### Before cleaning, you need to understand your data:F
+### Before cleaning, you need to understand your data:
 - How many rows and columns are there?
 - What type of data do you have in each column (numeric, categorical, datetime, text)?
 - What do missing values or anomalies look like?

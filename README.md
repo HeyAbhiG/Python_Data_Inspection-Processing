@@ -25,12 +25,12 @@ Before any analysis or visualization, you must clean and prepare this data so th
 •	Visual inspection (head/tail of dataset)
 
 ## Handling Missing Values:
-•	Delete Rows/Columns: If too much data is missing or unimportant.
-•	Imputation (Filling values):
-○	Mean/Median/Mode for numeric columns 
-○	Mode/ Unknown for categorical
-○	Forward/Backward fill for time series
-○	Predictive imputation using ML models
+-Delete Rows/Columns: If too much data is missing or unimportant.
+-Imputation (Filling values):
+-Mean/Median/Mode for numeric columns 
+-Mode/ Unknown for categorical
+-Forward/Backward fill for time series
+-Predictive imputation using ML models
 
 
 ## Step 5: Correcting Data Types 

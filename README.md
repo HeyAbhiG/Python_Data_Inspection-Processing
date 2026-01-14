@@ -51,14 +51,14 @@ In real-world datasets:
 
 ## Step 5: Correcting Data Types
 ## Each column must have the correct data type:
-•	Numeric → Integer/Float
-•	Text → String/Object
-•	Dates → Datetime format
-•	Boolean → True/False
+- Numeric → Integer/Float
+- Text → String/Object
+- Dates → Datetime format
+- Boolean → True/False
 
 ## Step 6: Handling Outliers
 ### Types extra 0
--Errors (e.g., extra zero: 50000 instead of 5000)
+- Errors (e.g., extra zero: 50000 instead of 5000)
 
 ## Handling Techniques:
 -	Remove extreme outliers with Statistical methods (Z-score, IQR)
